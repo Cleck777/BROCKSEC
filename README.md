@@ -8,7 +8,7 @@ This is the Official Github Repository for the members at Brockport Cyber
 This reposititory contains useful tools and resources that will aid members of the club
 
 
-### New Members
+### New Members!
 Please visit the folder labeled "Getting Started"
 
 1. Please sign and photo copy the document labeled "Policies and Procedures"
