@@ -1,6 +1,6 @@
 # BROCKSEC
 <p align="center">
-<img src="https://github.com/Cleck777/BROCKSEC/blob/main/Brockport%40Cyber%7E(2).png")
+<img src="https://github.com/Cleck777/BROCKSEC/blob/main/Untitled%20design(1).png")
 </p>
 <br />  
 <p></p>
