@@ -2,12 +2,14 @@
 
 Helpful-CMDS
 
-###Dirsearch:
+### Dirsearch:
         dirsearch --url 'url': lookup directories in a website
 
-###Dig:
+### Dig:
         dig -x 'ip_address': Reverse nslookup
         dig 'Domain Name': Get IP address from domain name
+
+        
 
 
 
