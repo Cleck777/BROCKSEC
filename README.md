@@ -7,6 +7,7 @@ Helpful-CMDS
 
 ### Dig:
         dig -x 'ip_address': Reverse nslookup
+        
         dig 'Domain Name': Get IP address from domain name
 
         
