@@ -2,6 +2,13 @@
 
 Helpful-CMDS
 
+### Nmap Scanning:
+        Basic:
+        ``` nmap <IP_Address> ```
+        Stealthy
+        ``` nmap -sS -F <IP_Address>```
+
+
 ### Dirsearch:
         ```dirsearch --url 'url': lookup directories in a website```
 
