@@ -8,19 +8,13 @@ This is the Official Github Repository for the members at Brockport Cyber
 This reposititory contains useful tools and resources that will aid members of the club
 
 
-### Nmap Scanning:
-        Basic:
-                nmap <IP_Address> 
-        Stealthy
-                nmap -sS -F <IP_Address>
+### New Members
+Please visit the folder labeled "Getting Started"
 
+1. Please sign and photo copy the document labeled "Policies and Procedures"
+2. Follow the instructions listed as "Getting started with KALI"
 
-### Dirsearch:
-        dirsearch --url 'url': lookup directories in a website
-
-### Dig:
-        dig -x 'ip_address': Reverse nslookup
-        dig 'Domain Name': Get IP address from domain name
+For any questions, reach out to: Cleck1@brockport.edu
 
         
 
